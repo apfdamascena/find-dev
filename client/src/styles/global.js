@@ -4,10 +4,11 @@ import {
 
 export const GlobalStyle = createGlobalStyle`
     :root {
-        --BACKGROUND: #FFFFFF;
+        --BACKGROUND: #F4F4F4;
         --CARD: #FFFFFF;
-        --BACKGROUND-MAIN: #F4F4F4;
-        --TEXT: #000000;
+        --BACKGROUND-MAIN: #1B284C;
+        --TEXT: #F4F4F4;
+        --BORDER: #FAC747;
     }
     
     * {
